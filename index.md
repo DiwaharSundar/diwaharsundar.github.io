@@ -1,13 +1,27 @@
-## Welcome to GitHub Pages
+## About Me
+
+I'm a backend developer with 4 years of experience in developing Java applications. I also have the ability to clean & concise code in python and flawless queries in Oracle DB. Apart from my regular job, I also contribute to Open-Source projects namely ReactJS, python etc. 
+
+I also an expert in writing python code and DB PL/SQL queries. 
+Please checkout for the projects and open-source Issues that I've worked in. 
 
 You can use the [editor on GitHub](https://github.com/DiwaharSundar/diwaharsundar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects Involved
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pindrop:
+<<Description>>
+  
+CCA:
+<<Description>>
 
+## Open-Source Contributions
+
+<<React JS development>>
+<<Python libraries>>
+  
 ```markdown
 Syntax highlighted code block
 
